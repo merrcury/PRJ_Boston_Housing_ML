@@ -7,7 +7,7 @@ MACHINE LEARNING - Machine learning is a subset of artificial intelligence in th
 Decision Tree - Regression. Decision tree builds regression or classification models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes.
 
 At time of developing this program following version of packages/libraries is used.
-1. Python       version 3.7.2
+1. Python       version 3.7.1
 2. scikit-learn version 0.20.1
 3. numpy        version 1.15.4
 4. pandas       version 0.23.4
